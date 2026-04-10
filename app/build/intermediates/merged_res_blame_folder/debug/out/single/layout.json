@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.example.mobileticketapp-mergeDebugResources-40:/layout/activity_seat_selection.xml",
+        "source": "com.example.mobileticketapp-main-43:/layout/activity_seat_selection.xml"
+    },
+    {
+        "merged": "com.example.mobileticketapp-mergeDebugResources-40:/layout/item_movie.xml",
+        "source": "com.example.mobileticketapp-main-43:/layout/item_movie.xml"
+    },
+    {
+        "merged": "com.example.mobileticketapp-mergeDebugResources-40:/layout/item_showtime.xml",
+        "source": "com.example.mobileticketapp-main-43:/layout/item_showtime.xml"
+    },
+    {
+        "merged": "com.example.mobileticketapp-mergeDebugResources-40:/layout/activity_register.xml",
+        "source": "com.example.mobileticketapp-main-43:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.mobileticketapp-mergeDebugResources-40:/layout/activity_login.xml",
+        "source": "com.example.mobileticketapp-main-43:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.mobileticketapp-mergeDebugResources-40:/layout/activity_my_tickets.xml",
+        "source": "com.example.mobileticketapp-main-43:/layout/activity_my_tickets.xml"
+    },
+    {
+        "merged": "com.example.mobileticketapp-mergeDebugResources-40:/layout/activity_main.xml",
+        "source": "com.example.mobileticketapp-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.mobileticketapp-mergeDebugResources-40:/layout/activity_movie_detail.xml",
+        "source": "com.example.mobileticketapp-main-43:/layout/activity_movie_detail.xml"
+    },
+    {
+        "merged": "com.example.mobileticketapp-mergeDebugResources-40:/layout/item_ticket.xml",
+        "source": "com.example.mobileticketapp-main-43:/layout/item_ticket.xml"
+    }
+]

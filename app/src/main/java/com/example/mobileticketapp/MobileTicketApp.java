@@ -1,0 +1,1 @@
+package com.example.mobileticketapp; import android.app.Application; public class MobileTicketApp extends Application {}

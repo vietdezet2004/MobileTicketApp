@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "929745516626",
+    "project_id": "mobileticketapp-96f07",
+    "storage_bucket": "mobileticketapp-96f07.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929745516626:android:76c939729569ed966e478b",
+        "android_client_info": {
+          "package_name": "com.example.mobileticketapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCdeOlrGE2noaZCFAyp0ZDPO5glPAJM6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="backgroundColor">#0A0B10</color>
+    <color name="black">#FF000000</color>
+    <color name="primaryColor">#E50914</color>
+    <color name="primaryDarkColor">#AB0000</color>
+    <color name="primaryLightColor">#FF533D</color>
+    <color name="primaryTextColor">#FFFFFF</color>
+    <color name="seatAvailable">#222634</color>
+    <color name="seatBooked">#424242</color>
+    <color name="seatSelected">#E50914</color>
+    <color name="seatText">#FFFFFF</color>
+    <color name="secondaryColor">#F5C518</color>
+    <color name="secondaryTextColor">#8E929E</color>
+    <color name="surfaceColor">#151821</color>
+    <color name="surfaceLightColor">#222634</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">MobileTicketApp</string>
+    <string name="gcm_defaultSenderId" translatable="false">929745516626</string>
+    <string name="google_api_key" translatable="false">AIzaSyCCdeOlrGE2noaZCFAyp0ZDPO5glPAJM6M</string>
+    <string name="google_app_id" translatable="false">1:929745516626:android:76c939729569ed966e478b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCCdeOlrGE2noaZCFAyp0ZDPO5glPAJM6M</string>
+    <string name="google_storage_bucket" translatable="false">mobileticketapp-96f07.firebasestorage.app</string>
+    <string name="project_id" translatable="false">mobileticketapp-96f07</string>
+    <style name="Theme.MobileTicketApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryVariant">@color/primaryDarkColor</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/secondaryColor</item>
+        <item name="colorSecondaryVariant">@color/secondaryColor</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">@color/backgroundColor</item>
+        
+        <item name="android:windowBackground">@color/backgroundColor</item>
+        <item name="colorSurface">@color/surfaceColor</item>
+        <item name="colorOnSurface">@color/primaryTextColor</item>
+        <item name="colorOnBackground">@color/primaryTextColor</item>
+        
+        
+        <item name="android:textColorPrimary">@color/primaryTextColor</item>
+        <item name="android:textColorSecondary">@color/secondaryTextColor</item>
+    </style>
+</resources>

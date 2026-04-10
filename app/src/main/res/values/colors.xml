@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#E50914</color>
+    <color name="primaryLightColor">#FF533D</color>
+    <color name="primaryDarkColor">#AB0000</color>
+    <color name="secondaryColor">#F5C518</color> <!-- IMDB Yellow for stars -->
+    <color name="primaryTextColor">#FFFFFF</color>
+    <color name="secondaryTextColor">#8E929E</color>
+    
+    <color name="backgroundColor">#0A0B10</color>
+    <color name="surfaceColor">#151821</color>
+    <color name="surfaceLightColor">#222634</color>
+
+    <!-- Seat Booking Colors -->
+    <color name="seatAvailable">#222634</color>
+    <color name="seatSelected">#E50914</color>
+    <color name="seatBooked">#424242</color>
+    <color name="seatText">#FFFFFF</color>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="transparent">#00000000</color>
+</resources>
