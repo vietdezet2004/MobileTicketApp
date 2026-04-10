@@ -1,0 +1,26 @@
+# Android build outputs
+/build/
+/app/build/
+*.apk
+*.aab
+*.ap_
+
+# Gradle
+.gradle/
+local.properties
+*.iml
+.idea/
+
+# Ảnh thừa, file tạm ở root
+*.jpg
+*.png
+*.jpeg
+!Screenshot/**
+!app/src/main/res/**/*.png
+
+# Key store
+*.jks
+*.keystore
+
+# Google services (uncomment nếu không muốn share)
+# app/google-services.json
